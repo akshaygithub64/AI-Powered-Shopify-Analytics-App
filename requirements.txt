@@ -1,0 +1,5 @@
+flask
+pandas
+openai
+python-dotenv
+openpyxl  # For reading Excel files if needed
